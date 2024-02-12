@@ -1,0 +1,37 @@
+.mother{
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    
+    margin: auto;
+    box-shadow:1px 5px 3px gray;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 50px 50px 50px 100px;
+    border: blue 2px solid;
+    border-radius: 50%;
+}
+
+.blue{
+    background-color: rgb(81, 81, 233);
+    width: 30opx;
+    height: 200px;
+    border-radius:20px ;
+}
+.white{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+   padding-top: 10px;
+    margin-top: -18.5px;
+    border-radius: 10px;
+}
+.white>h3{
+    text-align: center;
+}
+
+

@@ -19,9 +19,8 @@
     width: 800px;
 }
 #image{
-    background-color:red;
-    height: 300px;
-    width: 800px;
+    height: 300px
+ 
 }
 #card{
     background-color: burlywood;
@@ -35,9 +34,4 @@
     justify-content: center;
     background-color: green;
     margin-top: 10px;
-
-
-
-
-
 }
