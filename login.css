@@ -22,8 +22,11 @@
 #cow2{
     width: 380px;
     height: 400px;
-    background-color: rgb(203, 28, 226);
+    background-color: rgb(248, 246, 246);
     float: right;
+    padding-left: 20px;
+    text-align: center;
+    
 }
 #blue>img{
     width: 6cm;
@@ -43,10 +46,19 @@
     font-weight: bold;
     border-radius: 5px;
     box-shadow: 1px 2px 5px 1px gray;
-
-
-
-
+}
+#cow2>button{
+    background-color:rgb(67,175, 237);
+    width: 8cm;
+    border: none;
+    border-radius: 5px;
+    text-decoration-color: white;
+}
+input{
+    box-shadow: 1px 1px 2px 2px rgb(220,216, 216);
+    border: none;
+    padding: 10px;
+    margin: ;
 
 
 }
