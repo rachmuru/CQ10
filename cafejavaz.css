@@ -1,0 +1,95 @@
+#carouselExampleAutoplaying img{
+    width: auto;
+    height: 770px;
+    max-height: 770px;
+}
+#carouselExampleAutoplaying img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.overlay-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 40px;
+}
+.overlay-text>button{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+
+#cards{
+    display: flex;
+
+}
+#cards img{
+    width: 790px;
+    height: 400px;
+    max-height: 400px;
+}
+.card-text{
+    width: 3cm;
+    height: 3cm;
+    text-align: center;
+    border-radius: 100%;
+    padding-top: 0.6cm;
+    background-color: rgb(16, 16, 63);
+
+}
+#NOW{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    list-style-position: inside;
+    text-decoration: underline;
+    padding-bottom:4cm;
+    color: white;
+}
+#now2{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    list-style-position: inside;
+    padding-bottom: 1cm;
+    text-decoration: underline;
+    color: white;
+}
+#now3{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    list-style-position: inside;
+    padding-top: 2cm;
+    text-decoration: underline;
+    color: white;
+}
+#now4{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    list-style-position: inside;
+    padding-top: 5cm;
+    text-decoration: underline;
+    color: white;
+}
+#perfect{
+    background-color: rgb(16, 16, 63);
+    border:none;
+    color: white;
+    border-radius: 5px;
+    margin-left: 16cm;
+    margin-top: 3cm;
+}
